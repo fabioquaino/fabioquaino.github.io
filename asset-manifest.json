@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9510bac.css",
-    "main.js": "/static/js/main.d42b765e.js",
+    "main.css": "/static/css/main.af9e2b7d.css",
+    "main.js": "/static/js/main.e838f512.js",
     "static/media/fotoPersonal.png": "/static/media/fotoPersonal.d55b640db29f9cd2b82f.png",
-    "static/media/Fabio_Quaino_Resume.pdf": "/static/media/Fabio_Quaino_Resume.6e5da7817392d5847b0a.pdf",
+    "static/media/talend_tutorial.png": "/static/media/talend_tutorial.292330750f8890499b7a.png",
+    "static/media/Fabio_Quaino_Resume.pdf": "/static/media/Fabio_Quaino_Resume.0200d6555183caf29ae2.pdf",
+    "static/media/aws-ccp.png": "/static/media/aws-ccp.1d4d9fa250269a5b5067.png",
+    "static/media/aws-ia.png": "/static/media/aws-ia.5a4febfd1909a23e148f.png",
     "static/media/concontrol.png": "/static/media/concontrol.064d56709e5d2b7f71f8.png",
     "static/media/mejorar.png": "/static/media/mejorar.33ad33c534e026795f62.png",
     "static/media/telegram_chat.png": "/static/media/telegram_chat.e59cbc6674d89d65d446.png",
     "static/media/talendesb_deploy.png": "/static/media/talendesb_deploy.c52f73c40229fc667d93.png",
     "static/media/tableros_ctd.png": "/static/media/tableros_ctd.b63011973cc3c11c14da.png",
     "index.html": "/index.html",
-    "main.c9510bac.css.map": "/static/css/main.c9510bac.css.map",
-    "main.d42b765e.js.map": "/static/js/main.d42b765e.js.map"
+    "main.af9e2b7d.css.map": "/static/css/main.af9e2b7d.css.map",
+    "main.e838f512.js.map": "/static/js/main.e838f512.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9510bac.css",
-    "static/js/main.d42b765e.js"
+    "static/css/main.af9e2b7d.css",
+    "static/js/main.e838f512.js"
   ]
 }
