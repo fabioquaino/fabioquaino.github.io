@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.af9e2b7d.css",
-    "main.js": "/static/js/main.e838f512.js",
+    "main.css": "/static/css/main.fca05dea.css",
+    "main.js": "/static/js/main.f620b11b.js",
     "static/media/fotoPersonal.png": "/static/media/fotoPersonal.d55b640db29f9cd2b82f.png",
     "static/media/talend_tutorial.png": "/static/media/talend_tutorial.292330750f8890499b7a.png",
     "static/media/Fabio_Quaino_Resume.pdf": "/static/media/Fabio_Quaino_Resume.0200d6555183caf29ae2.pdf",
@@ -13,11 +13,11 @@
     "static/media/talendesb_deploy.png": "/static/media/talendesb_deploy.c52f73c40229fc667d93.png",
     "static/media/tableros_ctd.png": "/static/media/tableros_ctd.b63011973cc3c11c14da.png",
     "index.html": "/index.html",
-    "main.af9e2b7d.css.map": "/static/css/main.af9e2b7d.css.map",
-    "main.e838f512.js.map": "/static/js/main.e838f512.js.map"
+    "main.fca05dea.css.map": "/static/css/main.fca05dea.css.map",
+    "main.f620b11b.js.map": "/static/js/main.f620b11b.js.map"
   },
   "entrypoints": [
-    "static/css/main.af9e2b7d.css",
-    "static/js/main.e838f512.js"
+    "static/css/main.fca05dea.css",
+    "static/js/main.f620b11b.js"
   ]
 }
